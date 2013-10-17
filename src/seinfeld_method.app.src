@@ -1,0 +1,12 @@
+{application, seinfeld_method,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { seinfeld_method_app, []}},
+  {env, []}
+ ]}.
