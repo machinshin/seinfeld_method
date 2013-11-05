@@ -1,2 +1,7 @@
+ebin/*
 *.beam
-ebin
+deps/*
+rel/uptime_saas
+.concrete/DEV_MODE
+deps.plt
+.eunit

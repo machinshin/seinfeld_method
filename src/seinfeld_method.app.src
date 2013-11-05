@@ -1,12 +1,15 @@
+%% -*- mode: erlang -*-
 {application, seinfeld_method,
  [
-  {description, ""},
-  {vsn, "1"},
+  {description, "Calendar for using the Seinfeld Method"},
+  {vsn, "0.0.1"},
   {registered, []},
   {applications, [
                   kernel,
                   stdlib
                  ]},
-  {mod, { seinfeld_method_app, []}},
+  %% uncomment if this is an active application
+  %% {mod, { seinfeld_method_app, []}},
   {env, []}
  ]}.
+%% vim: set filetype=erlang tabstop=2

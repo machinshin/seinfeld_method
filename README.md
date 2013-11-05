@@ -1,4 +1,11 @@
-seinfeld_method
-===============
+# seinfeld_method #
 
-Seinfeld Method calendering system
+Calendar for using the Seinfeld Method
+
+## Author(s) ##
+
+* Vat Raghavan <machinshin@gmail.com>
+
+## Copyright ##
+
+Copyright (c) 2013 Vat Raghavan.  All rights reserved.
